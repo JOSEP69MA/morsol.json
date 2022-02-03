@@ -11,9 +11,6 @@
             ],
             "precio": "$31",
             "cantidad": "3L",
-            "multipliers": [
-                1.58
-            ],
             "areas": [
                 "Bebidas"
             ],
@@ -39,10 +36,6 @@
             ],
             "precio": "0.99 m",
             "cantidad": "13.0 kg",
-            "multipliers": [
-                1.2,
-                1.6
-            ],
             "areas": [
                 "alimentos",
                 "Bebidas"
@@ -65,9 +58,6 @@
             ],
             "precio": "$15",
             "cantidad": "600 ml",
-            "multipliers": [
-                1.58
-            ],
             "areas": [
                 "Fire"
             ],

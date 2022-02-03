@@ -11,20 +11,11 @@
             ],
             "precio": "$31",
             "cantidad": "3L",
-            "candy": "Bulbasaur Candy",
-            "candy_count": 25,
-            "egg": "2 km",
-            "spawn_chance": 0.69,
-            "avg_spawns": 69,
-            "spawn_time": "20:00",
             "multipliers": [
                 1.58
             ],
             "areas": [
-                "Bebidas",
-                "Ice",
-                "Flying",
-                "Psychic"
+                "Bebidas"
             ],
             "otros": [
                 {
@@ -48,12 +39,6 @@
             ],
             "precio": "0.99 m",
             "cantidad": "13.0 kg",
-            "candy": "Bulbasaur Candy",
-            "candy_count": 100,
-            "egg": "Not in Eggs",
-            "spawn_chance": 0.042,
-            "avg_spawns": 4.2,
-            "spawn_time": "07:00",
             "multipliers": [
                 1.2,
                 1.6
@@ -61,12 +46,6 @@
             "areas": [
                 "alimentos",
                 "Bebidas"
-            ],
-            "prev_evolution": [
-                {
-                    "num": "001",
-                    "name": "Bulbasaur"
-                }
             ],
             "otros": [
                 {
@@ -86,29 +65,11 @@
             ],
             "precio": "$15",
             "cantidad": "600 ml",
-            "candy": "Bulbasaur Candy",
-            "egg": "Not in Eggs",
-            "spawn_chance": 0.017,
-            "avg_spawns": 1.7,
-            "spawn_time": "11:30",
             "multipliers": [
                 1.58
             ],
             "areas": [
-                "Fire",
-                "Ice",
-                "Flying",
-                "Psychic"
-            ],
-            "prev_evolution": [
-                {
-                    "num": "001",
-                    "name": "Bulbasaur"
-                },
-                {
-                    "num": "002",
-                    "name": "Ivysaur"
-                }
+                "Fire"
             ],
             "otros": [
                 {

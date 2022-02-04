@@ -7,7 +7,7 @@
             "img": "assets/coca.jfif",
             "info": [
                 "Refresco sabor Cola",
-                "Encuentra mas como este en nuestras sucursales"
+                "Encuentralo en nuestras sucursales"
             ],
             "precio": "$21",
             "cantidad": "2 L",
@@ -37,7 +37,7 @@
             "img": "assets/coca2.jfif",
             "info": [
                 "Bebida Sabor Cola",
-                "Encuentra mas como este en nuestras sucursales"
+                "Encuentralo en nuestras sucursales"
             ],
             "precio": "$31",
             "cantidad": "3 L",
@@ -67,7 +67,7 @@
             "img": "assets/coca3.jfif",
             "info": [
                 "Refresco Sabor Cola",
-                "Encuentra mas productos en neustras sucursales"
+                "Encuentralo en nuestras sucursales"
             ],
             "precio": "$15",
             "cantidad": "600 ml",
@@ -87,6 +87,63 @@
                 {
                     "num": "005",
                     "name": "Coca-Cola 1.5 L"
+                }
+            ]
+        },
+        ,
+        {
+            "id": 4,
+            "num": "004",
+            "name": "Mirinda 2 L",
+            "img": "assets/mirinda.jpg",
+            "info": [
+                "Bebida sabor mirinda",
+                "Encuentrala en nuestras sucursales"
+            ],
+            "precio": "$22",
+            "cantidad": "2 L",
+            "areas": [
+                "Bebidas",
+                "Alimentos"
+            ],
+            "otros": [
+                {
+                    "num": "006",
+                    "name": "Pepsi 2 L"
+                },
+                {
+                    "num": "007",
+                    "name": "Manzanita 2 L"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "num": "005",
+            "name": "Coca-Cola 1.5 L",
+            "img": "assets/coca1L.jpg",
+            "info": [
+                "Bebida sabor Cola",
+                "Encuentralo en nuestra sucursales"
+            ],
+            "precio": "$22",
+            "cantidad": "1.5 L",
+            "areas": [
+                "Bebidas",
+                "Alimentos"
+            ],
+            "otros": [
+                 {
+                    "num": "001",
+                    "name": "Coca-Cola 2 L"
+                },
+                {
+                    "num": "002",
+                    "name": "Coca-cola 3 L"
+                },
+                {
+                    "num": "003",
+                    "name": "Coca-cola 600 ml"
                 }
             ]
         }

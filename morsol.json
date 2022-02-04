@@ -3,70 +3,488 @@
         {
             "id": 1,
             "num": "001",
-            "name": "Coca-cola",
+            "name": "Coca-Cola 2 L",
             "img": "assets/coca.jfif",
             "info": [
-                "2 L",
-                "600 ml"
+                "Refresco sabor Cola",
+                "Encuentra mas como este en nuestras sucursales"
             ],
-            "precio": "$31",
-            "cantidad": "3L",
+            "precio": "$21",
+            "cantidad": "2 L",
             "areas": [
-                "Bebidas"
+                "Bebidas",
+                "Alimentos"
             ],
             "otros": [
                 {
                     "num": "002",
-                    "name": "Coca 600ml"
+                    "name": "Coca_Cola 3 L"
                 },
                 {
                     "num": "003",
-                    "name": "Coca-cola 2L"
+                    "name": "Coca-Cola 600 mL"
+                },
+                {
+                    "num": "005",
+                    "name": "Coca-Cola 1.5 L"
                 }
             ]
         },
         {
             "id": 2,
             "num": "002",
-            "name": "Coca-cola",
+            "name": "Coca-Cola 3 L",
             "img": "assets/coca2.jfif",
             "info": [
-                "3 L",
-                "600 ml"
+                "Bebida Sabor Cola",
+                "Encuentra mas como este en nuestras sucursales"
             ],
-            "precio": "0.99 m",
-            "cantidad": "13.0 kg",
+            "precio": "$31",
+            "cantidad": "3 L",
             "areas": [
-                "alimentos",
+                "Alimentos",
                 "Bebidas"
             ],
             "otros": [
                 {
-                    "num": "004",
-                    "name": "Coca-Cola 2L"
+                    "num": "001",
+                    "name": "Coca-Cola 2 L"
+                },
+                {
+                    "num": "003",
+                    "name": "Coca-Cola 600 ml"
+                },
+                {
+                    "num": "005",
+                    "name": "Coca-Cola 1.5 L"
                 }
             ]
         },
         {
             "id": 3,
             "num": "003",
-            "name": "Coca-Cola",
+            "name": "Coca-Cola 600 ml",
             "img": "assets/coca3.jfif",
             "info": [
-                "Grass",
-                "Poison"
+                "Refresco Sabor Cola",
+                "Encuentra mas productos en neustras sucursales"
             ],
             "precio": "$15",
             "cantidad": "600 ml",
             "areas": [
-                "Fire"
+                "Bebidas",
+                "Alimentos"
+            ],
+            "otros": [
+                  {
+                    "num": "001",
+                    "name": "Coca-Cola 2 L"
+                },
+                {
+                    "num": "002",
+                    "name": "Coca-Cola 3 L"
+                },
+                {
+                    "num": "005",
+                    "name": "Coca-Cola 1.5 L"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "num": "004",
+            "name": "Mirinda 2 L",
+            "img": "assets/mirinda.jpg",
+            "info": [
+                "Bebida sabor mirinda",
+                "Encuentrala en nuestras sucursales"
+            ],
+            "precio": "$22",
+            "cantidad": "2 L",
+            "areas": [
+                "Bebidas",
+                "Alimentos"
             ],
             "otros": [
                 {
-                    "num": "0",
-                    "name": "This is the final Evolution"
+                    "num": "006",
+                    "name": "Pepsi 2 L"
+                },
+                {
+                    "num": "007",
+                    "name": "Manzanita 2 L"
                 }
             ]
-        }
+        },
+        {
+            "id": 5,
+            "num": "005",
+            "name": "Coca-Cola 1.5 L",
+            "img": "assets/coca1L.jpg",
+            "info": [
+                "Bebida sabor Cola",
+                "Encuentrala en nuestra sucursales"
+            ],
+            "precio": "$22",
+            "cantidad": "1.5 L",
+            "areas": [
+                "Bebidas",
+                "Alimentos"
+            ],
+            "otros": [
+                 {
+                    "num": "001",
+                    "name": "Coca-Cola 2 L"
+                },
+                {
+                    "num": "002",
+                    "name": "Coca-cola 3 L"
+                },
+                {
+                    "num": "003",
+                    "name": "Coca-cola 600 ml"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "num": "006",
+            "name": "Pepsi 2 L",
+            "img": "assets/pepsi.jpg",
+            "info": [
+                "Bebida sabor Cola",
+                "Encuentrala en nuestra sucursales"
+            ],
+            "precio": "$21",
+            "cantidad": "2 L",
+            "areas": [
+                "Bebidas",
+                "Alimentos"
+            ],
+            "otros": [
+                 {
+                    "num": "004",
+                    "name": "Mirinda 2 L"
+                },
+                 {
+                    "num": "007",
+                    "name": "Manzanita 2 L"
+                }
+            ]
+        },
+         {
+            "id": 7,
+            "num": "007",
+            "name": "Manzanita 2 L",
+            "img": "assets/manzanita.jpg",
+            "info": [
+                "Bebida sabor sidra de Manzana",
+                "Encuentrala en nuestra sucursales"
+            ],
+            "precio": "$21",
+            "cantidad": "2 L",
+            "areas": [
+                "Bebidas",
+                "Alimentos"
+            ],
+            "otros": [
+                 {
+                    "num": "004",
+                    "name": "Mirinda 2 L"
+                },
+                {
+                    "num": "006",
+                    "name": "Pepsi 2 L"
+                }
+                
+            ]
+        },
+        {
+            "id": 8,
+            "num": "008",
+            "name": "Jarritos Limon 2 L",
+            "img": "assets/jarritoslimon.jpg",
+            "info": [
+                "Bebida sabor Limon",
+                "Encuentrala en nuestra sucursales"
+            ],
+            "precio": "$11",
+            "cantidad": "2 L",
+            "areas": [
+                "Bebidas",
+                "Alimentos"
+            ],
+            "otros": [
+                 {
+                    "num": "004",
+                    "name": "Mirinda 2 L"
+                },
+                {
+                    "num": "002",
+                    "name": "Coca-Cola 3 L"
+                }
+                
+            ]
+        },
+        {
+            "id": 9,
+            "num": "009",
+            "name": "Agua Bonafont 600 ml",
+            "img": "assets/bona.jpg",
+            "info": [
+                "Agua purificada",
+                "Encuentrala en nuestra sucursales"
+            ],
+            "precio": "$11",
+            "cantidad": "600 ml",
+            "areas": [
+                "Bebidas",
+                "Alimentos"
+            ],
+            "otros": [
+                 {
+                    "num": "003",
+                    "name": "Coca-Cola 600 ml"
+                }
+                
+            ]
+        },
+        {
+            "id": 10,
+            "num": "010",
+            "name": "Vive 100 500 ml",
+            "img": "assets/vive100.jpg",
+            "info": [
+                "Bebida carbonatada",
+                "Encuentrala en nuestra sucursales"
+            ],
+            "precio": "$12.50",
+            "cantidad": "500 ml",
+            "areas": [
+                "Bebidas"
+            ],
+            "otros": [
+                 {
+                    "num": "011",
+                    "name": "Monster 473 ml"
+                },
+                {
+                    "num": "012",
+                    "name": "Volt 473 ml"
+                }
+                
+            ]
+        },
+        {
+            "id": 11,
+            "num": "011",
+            "name": "Monster 473 ml",
+            "img": "assets/monster.jpg",
+            "info": [
+                "Bebida energetica",
+                "Encuentrala en nuestra sucursales"
+            ],
+            "precio": "$36",
+            "cantidad": "473 ml",
+            "areas": [
+                "Bebidas"
+            ],
+            "otros": [
+                 {
+                    "num": "010",
+                    "name": "Vive 100 500 ml"
+                },
+                {
+                    "num": "012",
+                    "name": "Volt 473 ml"
+                }
+                
+            ]
+        },
+        {
+            "id": 12,
+            "num": "012",
+            "name": "Volt 473 ml",
+            "img": "assets/Volt.jpg",
+            "info": [
+                "Bebida energetica",
+                "Encuentrala en nuestra sucursales"
+            ],
+            "precio": "$36",
+            "cantidad": "473 ml",
+            "areas": [
+                "Bebidas"
+            ],
+            "otros": [
+                 {
+                    "num": "010",
+                    "name": "Vive 100 500 ml"
+                },
+                {
+                    "num": "012",
+                    "name": "Monster 473 ml"
+                }
+                
+            ]
+        },
+        {
+            "id": 13,
+            "num": "013",
+            "name": "Chettos Torciditos 155 gr",
+            "img": "assets/cheetos-1.png",
+            "info": [
+                "Botana sabor queso chedar",
+                "Encuentrala en nuestra sucursales"
+            ],
+            "precio": "$12",
+            "cantidad": "155 gr",
+            "areas": [
+                "Botanas",
+                "Alimentos"
+            ],
+            "otros": [
+                 {
+                    "num": "014",
+                    "name": "Doritos 155 gr"
+                },
+                {
+                    "num": "015",
+                    "name": "Sabritas 473 ml"
+                }
+                
+            ]
+        },
+         {
+            "id": 14,
+            "num": "014",
+            "name": "Doritos Nacho 155 gr",
+            "img": "assets/doritos.png",
+            "info": [
+                "Botana sabor queso nacho",
+                "Encuentrala en nuestra sucursales"
+            ],
+            "precio": "$16",
+            "cantidad": "155 gr",
+            "areas": [
+                "Botanas",
+                "Alimentos"
+            ],
+            "otros": [
+                 {
+                    "num": "013",
+                    "name": "Cheetos torciditos 155 gr"
+                },
+                {
+                    "num": "015",
+                    "name": "Sabritas Flamin Hot 155 gr"
+                }
+                
+            ]
+        },
+         {
+            "id": 15,
+            "num": "015",
+            "name": "Sabritas Flamin Hot 155 gr",
+            "img": "assets/sabritasflammin.png",
+            "info": [
+                "Fritura de maiz con picante",
+                "Encuentrala en nuestra sucursales"
+            ],
+            "precio": "$16",
+            "cantidad": "155 gr",
+            "areas": [
+                "Botanas",
+                "Alimentos"
+            ],
+            "otros": [
+                 {
+                    "num": "013",
+                    "name": "Cheetos torciditos 155 gr"
+                },
+                {
+                    "num": "014",
+                    "name": "Doritos 473 ml"
+                }
+                
+            ]
+        },
+        {
+            "id": 16,
+            "num": "016",
+            "name": "Papel Higienico Vogue 4 Rollos",
+            "img": "assets/voguepapel.jpg",
+            "info": [
+                "Papel Higienico Vogue con aroma a manzanilla",
+                "Encuentrala en nuestra sucursales"
+            ],
+            "precio": "$46",
+            "cantidad": "4 Rollos",
+            "areas": [
+                "Limpieza"
+            ],
+            "otros": [
+                 {
+                    "num": "017",
+                    "name": "Fabuloso Lavanda 2 L"
+                },
+                {
+                    "num": "018",
+                    "name": "Fabuloso Lavanda 5 L"
+                }
+                
+            ]
+        },
+        {
+            "id": 17,
+            "num": "017",
+            "name": "Fabuloso Lavanda 2 L",
+            "img": "assets/fabuloso2L.jpg",
+            "info": [
+                "Aromatizante de Limpieza aroma a fresca lavanda",
+                "Encuentrala en nuestra sucursales"
+            ],
+            "precio": "$19",
+            "cantidad": "2 L",
+            "areas": [
+                "Limpieza"
+            ],
+            "otros": [
+                 {
+                    "num": "016",
+                    "name": "Papel Higienico Vogue 4 Rollos"
+                },
+                {
+                    "num": "018",
+                    "name": "Fabuloso Lavanda 5 L"
+                }
+                
+            ]
+        },
+        {
+            "id": 18,
+            "num": "018",
+            "name": "Fabuloso Lavanda 5 L",
+            "img": "assets/fabuloso.jpg",
+            "info": [
+                "Aromatizante de Limpieza aroma a fresca lavanda",
+                "Encuentrala en nuestra sucursales"
+            ],
+            "precio": "$39",
+            "cantidad": "5 L",
+            "areas": [
+                "Limpieza"
+            ],
+            "otros": [
+                 {
+                    "num": "016",
+                    "name": "Papel Higienico Vogue 4 Rollos"
+                },
+                {
+                    "num": "017",
+                    "name": "Fabuloso Lavanda 2 L"
+                }
+                
+            ]
+        },
     ]
 }

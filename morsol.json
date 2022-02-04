@@ -279,7 +279,7 @@
             "id": 11,
             "num": "011",
             "name": "Monster 473 ml",
-            "img": "assets/monster.jpg",
+            "img": "assets/monster1.jpg",
             "info": [
                 "Bebida energetica",
                 "Encuentrala en nuestra sucursales"
@@ -438,7 +438,7 @@
             "id": 17,
             "num": "017",
             "name": "Fabuloso Lavanda 2 L",
-            "img": "assets/fabuloso2L.jpg",
+            "img": "assets/fabulo2L.jpg",
             "info": [
                 "Aromatizante de Limpieza aroma a fresca lavanda",
                 "Encuentrala en nuestra sucursales"
